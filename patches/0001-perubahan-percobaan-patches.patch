@@ -1,0 +1,25 @@
+From a248e80552d811627af2e4aecaf508982cb203f9 Mon Sep 17 00:00:00 2001
+From: riantra <andriancodings@gmail.com>
+Date: Tue, 1 Mar 2022 22:53:08 +0700
+Subject: [PATCH] perubahan percobaan patches
+
+---
+ Andrian.js | 4 +++-
+ 1 file changed, 3 insertions(+), 1 deletion(-)
+
+diff --git a/Andrian.js b/Andrian.js
+index 4d0d224..2c638d8 100644
+--- a/Andrian.js
++++ b/Andrian.js
+@@ -1,3 +1,5 @@
+ Setelah di edit di branch
+ 
+-hari 3 menmabahkan rebash
+\ No newline at end of file
++hari 3 menmabahkan rebash
++
++buat lagi edit filenya
+\ No newline at end of file
+-- 
+2.25.1
+
